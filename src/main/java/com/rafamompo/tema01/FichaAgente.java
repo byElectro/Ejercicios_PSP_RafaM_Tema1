@@ -2,8 +2,8 @@ package com.rafamompo.tema01;
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
-public class Main {
-    static void main() {
+public class FichaAgente {
+    static void main(String[] args) {
 
 
         //ProcessHandle es la clase que saca informacion de un proceso.
